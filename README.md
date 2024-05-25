@@ -28,6 +28,7 @@ Kubernetes, also known as K8s, is an open-source platform that automates the dep
 2. **Download Infographics**: Each infographic corresponds to a specific video and can be found in the relevant folder.
 3. **Learn & Practice**: Use the infographics to understand key concepts and follow along with the tutorials.
 4. **Share Your Knowledge**: Teach your friends or classmates what you've learned!
+5. **Give Credits**: Please Give Credits to this repository!
 
 ## License 📜
 
